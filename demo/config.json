@@ -1,0 +1,12 @@
+{
+    "name_x": 1,
+    "name_y": 3,
+    "txkt_start_x": 5,
+    "txkt_duration_y": 7,
+    "txkt_name_y": 3,
+    "class_y": 4,
+    "data_path": "./data",
+    "class_path": "./class.xlsx",
+    "min_class": 20,
+    "min_num": 10
+}
