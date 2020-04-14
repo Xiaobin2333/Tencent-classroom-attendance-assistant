@@ -42,9 +42,9 @@
 
   [1]: https://github.com/Xiaobin2333/Tencent-classroom-attendance-assistant/releases
   [2]: https://search.pstatic.net/common?type=origin&src=https://www.mrchung.cn/usr/uploads/2020/04/168203530.png
-  [3]: https://search.pstatic.net/common?type=origin&src=https://www.mrchung.cn/usr/uploads/2020/04/2639246968.png
-  [4]: https://search.pstatic.net/common?type=origin&src=https://www.mrchung.cn/usr/uploads/2020/04/2897639418.png
-  [5]: https://search.pstatic.net/common?type=origin&src=https://www.mrchung.cn/usr/uploads/2020/04/2006752868.png
+  [3]: https://search.pstatic.net/common?type=origin&src=https://www.mrchung.cn/usr/uploads/2020/04/2897639418.png
+  [4]: https://search.pstatic.net/common?type=origin&src=https://www.mrchung.cn/usr/uploads/2020/04/2006752868.png
+  [5]: https://search.pstatic.net/common?type=origin&src=https://www.mrchung.cn/usr/uploads/2020/04/4291132881.png
   [6]: https://search.pstatic.net/common?type=origin&src=https://www.mrchung.cn/usr/uploads/2020/04/126812428.jpg
   [7]: https://search.pstatic.net/common?type=origin&src=https://www.mrchung.cn/usr/uploads/2020/04/2036134815.jpg
   [8]: https://search.pstatic.net/common?type=origin&src=https://www.mrchung.cn/usr/uploads/2020/04/745169198.png
